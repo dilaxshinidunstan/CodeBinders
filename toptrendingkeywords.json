@@ -1,0 +1,82 @@
+[
+    {
+        "keyword": "spring",
+        "forecast_score": 3.06
+    },
+    {
+        "keyword": "jacket",
+        "forecast_score": 2.17
+    },
+    {
+        "keyword": "coat",
+        "forecast_score": 2.02
+    },
+    {
+        "keyword": "top",
+        "forecast_score": 2.0
+    },
+    {
+        "keyword": "bomber",
+        "forecast_score": 1.91
+    },
+    {
+        "keyword": "loafer",
+        "forecast_score": 1.9
+    },
+    {
+        "keyword": "blouse",
+        "forecast_score": 1.9
+    },
+    {
+        "keyword": "crop",
+        "forecast_score": 1.86
+    },
+    {
+        "keyword": "parka",
+        "forecast_score": 1.86
+    },
+    {
+        "keyword": "skirt",
+        "forecast_score": 1.85
+    },
+    {
+        "keyword": "cardigan",
+        "forecast_score": 1.85
+    },
+    {
+        "keyword": "boots",
+        "forecast_score": 1.85
+    },
+    {
+        "keyword": "heels",
+        "forecast_score": 1.82
+    },
+    {
+        "keyword": "jumpsuit",
+        "forecast_score": 1.81
+    },
+    {
+        "keyword": "tank",
+        "forecast_score": 1.78
+    },
+    {
+        "keyword": "shorts",
+        "forecast_score": 1.78
+    },
+    {
+        "keyword": "sweater",
+        "forecast_score": 1.78
+    },
+    {
+        "keyword": "pullover",
+        "forecast_score": 1.78
+    },
+    {
+        "keyword": "shirt",
+        "forecast_score": 1.77
+    },
+    {
+        "keyword": "dress",
+        "forecast_score": 1.75
+    }
+]
